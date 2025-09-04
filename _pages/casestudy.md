@@ -17,7 +17,7 @@ Your case study will take the form of a website (built with Jekyll and GitHub Pa
 
 ## Pages in this Case Study
 
-The following pages are part of your case study. Click to navigate:
+Use the links below to view the individual pages in the casestudy folder. This layout is temporary—consider redesigning the navigation later for a smoother experience.
 
 - [Stakeholder 1](ethics_fall2025/casestudy/stakeholder1.html)
 - [Stakeholder 2](ethics_fall2025/casestudy/stakeholder2.html)
