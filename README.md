@@ -11,7 +11,3 @@ This website is for you to host your reflections on our case study readings, con
 6. Create Codespace. Go to Code dropdown > Codespaces > Create codespace on master. This takes a few minutes.
 7. View _config.yml. Go to Basic Site Settings and update your name, url, and repo. Replace Prof Kim's information with your own. Then scroll down to links and update to your liking.
 8. View about.md in _pages. Update your name from Prof. Kim's. This page will need to be updated with your information by the deadline in the course schedule.
-<<<<<<< HEAD
-=======
-
->>>>>>> ab493c77803a9a21900d4fd3354a33d2816723f8
