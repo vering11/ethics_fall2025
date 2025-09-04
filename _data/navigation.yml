@@ -9,6 +9,7 @@
 
 main:
   - title: "Podcasts"
+    url: /podcasts/
     
   - title: "Case Study"
     url: /casestudy/
