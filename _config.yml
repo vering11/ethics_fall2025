@@ -217,7 +217,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  podcasts:
     output: true
     permalink: /:collection/:path/
   portfolio:
