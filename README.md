@@ -4,10 +4,11 @@ This website is for you to host your reflections on our case study readings, con
 *update*
 # Getting Started
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io/ethics_fall2025", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/ethics_fall2025files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+2. Click the "Use this template" button in the top right.
+3. Create using an ethics_fall2025 repo
+4. Host with GitPages. Go to Settings>Pages>Branch. Click master from drop-down and Save
+5. Enable URL. Go to Code > About > Gear icon > Website. Click 'Use your GitHub Pages website' and Save. This may take a minute to load.
+6. Create Codespace. Go to Code dropdown > Codespaces > Create codespace on master. This takes a few minutes.
+7. View _config.yml. Go to Basic Site Settings and update your name, url, and repo. Replace Prof Kim's information with your own. Then scroll down to links and update to your liking.
+8. View about.md in _pages. Update your name from Prof. Kim's. This page will need to be updated with your information by the deadline in the course schedule.
 
