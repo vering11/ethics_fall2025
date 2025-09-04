@@ -5,13 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- updated -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -23,14 +19,45 @@ author_profile: true
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      <div class="podcast-entry">
+        <h3>{{ post.title }}</h3>
+        {% if post.excerpt %}
+          <p>{{ post.excerpt }}</p>
+        {% endif %}
+        {% if post.audio %}
+          <audio controls>
+            <source src="{{ post.audio }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+        {% endif %}
+        {% if post.video %}
+          <video controls width="100%" preload="metadata">
+            <source src="{{ post.video }}" type="video/mp4">
+            Your browser does not support the video element.
+          </video>
+        {% endif %}
+      </div>
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <div class="podcast-entry">
+      <h3>{{ post.title }}</h3>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt }}</p>
+      {% endif %}
+      {% if post.audio %}
+        <audio controls>
+          <source src="{{ post.audio }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      {% endif %}
+      {% if post.video %}
+        <video controls width="100%" preload="metadata">
+          <source src="{{ post.video }}" type="video/mp4">
+          Your browser does not support the video element.
+        </video>
+      {% endif %}
+    </div>
   {% endfor %}
 {% endif %}
-
-
-
