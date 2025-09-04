@@ -25,10 +25,10 @@ layout: default
       <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
     {% endif %}
     {% if page.date %}
-      <meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">
+      <meta itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}">
     {% endif %}
     {% if page.modified %}
-      <meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">
+      <meta itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}">
     {% endif %}
 
     <div class="page__inner-wrap">
@@ -40,7 +40,7 @@ layout: default
 
           {% if page.date %}
             <p class="page__date">
-              <strong>Published:</strong> 
+              <strong>Published on:</strong> 
               <time datetime="{{ page.date | date_to_xmlschema }}">
                 {{ page.date | date: "%B %-d, %Y" }}
               </time>
@@ -63,7 +63,7 @@ layout: default
         {% if page.video %}
           <p><strong>Watch:</strong></p>
           <video controls width="640">
-            <source src="{{ page.video }}" type="video/mp4">
+            <source src="{{ page.video | relative_url }}" type="video/mp4">
             Your browser does not support the video element.
           </video>
         {% endif %}
