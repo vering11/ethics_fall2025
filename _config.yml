@@ -23,7 +23,7 @@ repository               : "https://github.com/chefs-kiss/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kim Mandery" #update
+  name             : "First Last" #update
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   employer         : "St. Olaf College"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kim Computes Ethics" #update to your name
+title: "[Name] Computes Ethics" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
