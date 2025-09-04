@@ -1,6 +1,5 @@
 ---
 title: "Stakeholder1"
-collection: casestudy
-permalink: /casestudy/stakeholder1
+layout: default
 ---
 Content for Stakeholder 1.
