@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This page is meant for you to use to showcase your case study and podcasts, as well as host your blog posts that you'll create for our readings. You will need to update the content on this page and submit to Moodle (see calendar). Once updated, you can delete this short paragraph and the help guide at the bottom so that only the About Me, Research, and Personal Life are showing.
+This page is meant for you to showcase your case study, podcasts, and blog posts reflecting on our readings. You will need to update the content in each section and submit your site to Moodle (see calendar). Once all sections are updated, revise this paragraph so it summarizes the purpose of your site for new visitors. This can include how to navigate it, what each section contains, and what someone should understand about your work just by reading this introduction.
 
 
 About Me
