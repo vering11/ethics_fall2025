@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : #"[username]@stolaf.edu" #update
+  email            : "[username]@stolaf.edu" #update
 
   # links
   academia         : # URL
