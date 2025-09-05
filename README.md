@@ -4,7 +4,7 @@ This website is for you to host your reflections on our case study readings, con
 *update*
 # Getting Started
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Click the "Use this template" button in the top right.
+2. Click the "fork" button in the top right.
 3. Create using an ethics_fall2025 repo
 4. Host with GitPages. Go to Settings>Pages>Branch. Click master from drop-down and Save
 5. Enable URL. Go to Code > About > Gear icon > Website. Click 'Use your GitHub Pages website' and Save. This may take a minute to load.
