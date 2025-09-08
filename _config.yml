@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Computing Ethics"
 title_separator          : "-"
-name                     : &name 
+name                     : "Emme Vering"
 description              : &description 
-url                      : https://chefs-kiss.github.io/ethics_fall2025 #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://vering11.github.io/ethics_fall2025 #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/chefs-kiss/ethics_fall2025" 
+repository               : "https://github.com/vering11/ethics_fall2025" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ repository               : "https://github.com/chefs-kiss/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "First Last" #update
+  name             : "Emme Vering" #update
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  bio              : "I am a student pursuing a dual degree in political science and computer science at St. Olaf college. With a strong foundation in legal research, government work, technical development, and service to the community, I am interested in working in the intersection between developing technology, policy, and public impact."
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : "[username]@stolaf.edu" #update
+  email            : "vering1@stolaf.edu" #update
 
   # links
   academia         : # URL
