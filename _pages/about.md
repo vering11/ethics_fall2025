@@ -1,5 +1,5 @@
 ---
-permalink: /vering11.github.io/ethics_fall2025/
+permalink:
 title: "Emme Vering" #update to your name
 author_profile: true
 redirect_from: 
