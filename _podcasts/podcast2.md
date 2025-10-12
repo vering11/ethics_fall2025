@@ -1,7 +1,7 @@
 ---
 title: "Podcast 2 - Gone Phishing"
 collection: podcasts
-permalink: /podcasts/podcast1
+permalink: /podcasts/podcast2
 excerpt: "Let's chat about Bot-ched Statistics and hallucinations in LLMs."
 date: 2025-10-12
 audio: ethics_fall2025/files/Vering_Hansen_Podcast2.mp3
