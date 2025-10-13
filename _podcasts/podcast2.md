@@ -4,7 +4,7 @@ collection: podcasts
 permalink: /podcasts/podcast2
 excerpt: "Let's chat about Bot-ched Statistics and hallucinations in LLMs."
 date: 2025-10-12
-audio: ethics_fall2025/files/Vering_HansenPodcast2.mp4
+audio: ethics_fall2025/files/Vering_HansenPodcast2.mp3
 video: ethics_fall2025/files/Audiogram_Episode_2.mp4
 ---
 A Podcast about ethical uses of Large Language models and the spread of misinformation.  
