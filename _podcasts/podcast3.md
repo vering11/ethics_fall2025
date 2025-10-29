@@ -10,3 +10,4 @@ image: ethics_fall2025/images/AI_HistoryTimeline.jpg
 
 ---
 A Podcast about the history of artificial intelligence and our personal experiences with it. 
+
