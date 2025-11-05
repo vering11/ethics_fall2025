@@ -15,3 +15,6 @@ modeled after those we read in class. Your case study must present an ethical is
 
 Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
 
+[Go to activity page](activity/)
+
+[Go to stakeholder 1](stakeholder1/)
