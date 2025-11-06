@@ -6,14 +6,16 @@ author_profile: true
 
 Drop spot for your case study work
 
-## Overview
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
+# Abstract:
+ As the topic of immigration becomes more and more relevant in today’s society, it is imperative to understand the technology that plays a role within immigration enforcement. Across the world, different technologies are being implemented and used in immigration enforcement applications. It might appear like using facial recognition technology or automated license plate recognition across borders. This goes further than simple technologies being used, it is also how the data retrieved from these technologies is gathered and used. It is important to understand what these technologies are, how they are used, and the impact they have on so many both in the United States and globally. 
 
-## Requirements
+## Learning Objectives - 
+- Understand how different technologies are used in different immigration enforcement applications 
+- Be able to assess the potential impact of technologies used in immigration and the impact they have on (a) immigrants and refugees, (b) the United States as a country, and (c) the world in its entirety.
+- Be able to thoughtfully discuss how technology might contribute to broader current trends in immigration enforcement and political polarization.
+- Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation
 
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
 
 [Go to activity page](activity/)
 
