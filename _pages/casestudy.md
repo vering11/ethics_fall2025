@@ -13,6 +13,8 @@ author_profile: true
 - Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation
 
 
-[Go to activity page](activity/)
+[Wanting to learn in a more hands-on approach? Click here:](activity/)
 
-[Go to stakeholder 1](stakeholder1/)
+[Want to learn more about the stakeholders? Click here:](stakeholder1/)
+
+[Curious about different ethical lenses? Click here:](stakeholder1/)
