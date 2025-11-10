@@ -19,4 +19,4 @@ author_profile: true
 
 [Want to learn about different ethical lenses? Click here:](stakeholder1/)
 
-[Want to test you knowledge? Click here:]()
+[Want to ? Click here:](questions/introduction/q01.md)
