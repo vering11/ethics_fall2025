@@ -17,6 +17,4 @@ author_profile: true
 
 [Want to learn more about the stakeholders? Click here:](stakeholder1/)
 
-[Want to learn about different ethical lenses? Click here:](stakeholder1/)
-
-[Want to ? Click here:](questions/introduction/q01.md)
+[Want to learn about different ethical lenses? Click here:](stakeholder2/)
