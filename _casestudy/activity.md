@@ -16,5 +16,20 @@ questions:
 ---
 Content for your interactive activity.
 
+{% if page.questions %}
+  <h2>{{ page.title }}</h2>
+
+  {% for q in page.questions %}
+    <div class="question">
+      <p><strong>{{ q.question }}</strong></p>
+      <ul>
+        {% for item in q.items %}
+          <li>{{ item.choice }}</li>
+        {% endfor %}
+      </ul>
+      <p><em>{{ q.followup }}</em></p>
+    </div>
+  {% endfor %}
+{% endif %}
 
 [← Back to Main Case Study](/ethics_fall2025/casestudy/)
