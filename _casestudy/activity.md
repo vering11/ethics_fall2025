@@ -12,11 +12,7 @@ questions:
         correct: false
     followup: |
       The answer is True! Pittsburgh is 304.9 miles West of Philadelphia, or approximately a car ride of 4 hours and 52 minutes. Buckle up!
-
----
-Content for your interactive activity.
-
-{% if page.questions %}
+      {% if page.questions %}
   <h2>{{ page.title }}</h2>
 
   {% for q in page.questions %}
@@ -31,5 +27,9 @@ Content for your interactive activity.
     </div>
   {% endfor %}
 {% endif %}
+
+
+---
+Content for your interactive activity.
 
 [← Back to Main Case Study](/ethics_fall2025/casestudy/)
