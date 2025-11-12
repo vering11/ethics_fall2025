@@ -1,7 +1,7 @@
 ---
 title: "Activity"
 layout: default
-{% include quiz.html file='example-quiz' %}
+{% include quiz.html file='quiz' %}
 
 ---
 Content for your interactive activity.
