@@ -6,4 +6,5 @@ Content for your interactive activity.
 
 [← Back to Main Case Study](/ethics_fall2025/casestudy/)
 
-<a href="javascript:void(0)" class="button">Default Button</a>
+[Go to Next Activity](/ethics_fall2025/activites/){: .button }
+<a href="/ethics_fall2025/_casestudy/activities/" class="button">Go to Next Activity</a>
