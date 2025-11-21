@@ -2,7 +2,7 @@
 title: "Activity"
 layout: default
 ---
-Here is a quiz to test your knowledge and to make you think about the ethics of surveillance technology in immigration, a bit more.(https://forms.gle/pUYXCdLNfwVgpogT8)
+[Here is a quiz to test your knowledge and to make you think about the ethics of surveillance technology in immigration, a bit more.](https://forms.gle/pUYXCdLNfwVgpogT8)
 
 ---
 
