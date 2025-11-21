@@ -12,9 +12,13 @@ author_profile: true
 - Be able to thoughtfully discuss how technology might contribute to broader current trends in immigration enforcement and political polarization.
 - Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation
 
+[Read more here:](article/)
 
 [Want to learn more with a hands-on approach? Click here:](activity/)
 
 [Want to learn more about the stakeholders? Click here:](stakeholder1/)
 
-[Want to learn about different ethical lenses? Click here:](stakeholder2/)
+[Want more discussion questions? Click here:](discussion/)
+
+[Want to see what sources I used? Click here:](citations/)
+
