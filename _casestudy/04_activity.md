@@ -4,7 +4,7 @@ layout: default
 
 collection: casestudy
 permalink: /casestudy/article/
-#nav_order: 4
+nav_order: 4
 ---
 [Here is a quiz to test your knowledge and to make you think about the ethics of surveillance technology in immigration, a bit more.](https://forms.gle/pUYXCdLNfwVgpogT8)
 

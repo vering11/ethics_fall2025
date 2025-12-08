@@ -4,7 +4,7 @@ layout: single
 
 collection: casestudy
 permalink: /casestudy/article/
-#nav_order: 1
+nav_order: 1
 
 ---
 ## Introduction

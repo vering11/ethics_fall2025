@@ -4,7 +4,7 @@ layout: default
 
 collection: casestudy
 permalink: /casestudy/article/
-#nav_order: 2
+nav_order: 2
 ---
 ## The Stakeholders: Who is involved? 
 There are multiple stakeholders involved in this case. Marginalized communities are the most heavily affected and hurt by the use of surveillance technology, especially in immigration enforcement applications. With that being said, immigrants and non-US citizens, U.S. citizens, government agencies, politicians, tech companies, and human advocacy groups all play a role in this. Let’s dive deeper into what each of these roles look like more specifically. 
