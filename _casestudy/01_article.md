@@ -1,6 +1,11 @@
 ---
 title: "Case Study"
-layout: default
+layout: single
+
+collection: casestudy
+permalink: /casestudy/article/
+#nav_order: 1
+
 ---
 ## Introduction
 Immigration is a subject that can be hard to navigate because of how personal it can be. Some people don’t think about immigration often and some think about it everyday, it all depends on personal circumstances. As a whole however, the technologies created to be implemented within immigration enforcement are very rarely the focal point. 

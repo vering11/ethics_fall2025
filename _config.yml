@@ -284,6 +284,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _casestudy
+  - scope: 
+    path: ""
+    type: casestudy
+    values: 
+    layout: single
+    author_profile: true
+    share: false
+    comment: false
   # _talks
   - scope:
       path: ""

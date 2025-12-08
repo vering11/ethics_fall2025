@@ -1,6 +1,10 @@
 ---
 title: "Discussion Questions"
 layout: default
+
+collection: casestudy
+permalink: /casestudy/article/
+#nav_order: 3
 ---
 ## Discussion questions to make you think some more 
 If a person is fleeing danger, can their consent to surveillance ever truly be “voluntary”?

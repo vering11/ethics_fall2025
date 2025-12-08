@@ -1,6 +1,10 @@
 ---
 title: "Citations"
 layout: default
+
+collection: casestudy
+permalink: /casestudy/article/
+#nav_order: 5
 ---
 
 Dahl, Michelle. “A new era in the fight against NYPD surveillance.” S.T.O.P Surveillance Technology Oversight Project. 6 Nov. 2025,. https://www.stopspying.org/latest-news/2025/11/6/A-new-era-in-the-fight-against-nypd-surveillance
