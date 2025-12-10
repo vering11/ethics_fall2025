@@ -15,13 +15,13 @@ collection: casestudy
 - Be able to thoughtfully discuss how technology might contribute to broader current trends in immigration enforcement and political polarization.
 - Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation
 
-[Read more here:](article/)
+[Read more here:](/ethics_fall2025/casestudy/article/)
 
-[Want to learn more with a hands-on approach? Click here:](activity/)
+[Want to learn more with a hands-on approach? Click here:](/ethics_fall2025/casestudy/activity/)
 
-[Want to learn more about the stakeholders? Click here:](stakeholder1/)
+[Want to learn more about the stakeholders? Click here:](/ethics_fall2025/casestudy/stakeholder1/)
 
-[Want more discussion questions? Click here:](discussion/)
+[Want more discussion questions? Click here:](/ethics_fall2025/casestudy/stakeholder2/)
 
-[Want to see what sources I used? Click here:](citations/)
+[Want to see what sources I used? Click here:](/ethics_fall2025/casestudy/citations/)
 

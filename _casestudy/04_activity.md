@@ -1,9 +1,9 @@
 ---
 title: "Activity"
-layout: default
+layout: single
 
 collection: casestudy
-permalink: /casestudy/article/
+permalink: /casestudy/activity/
 nav_order: 4
 ---
 [Here is a quiz to test your knowledge and to make you think about the ethics of surveillance technology in immigration, a bit more.](https://forms.gle/pUYXCdLNfwVgpogT8)

@@ -1,9 +1,9 @@
 ---
 title: "Citations"
-layout: default
+layout: single
 
 collection: casestudy
-permalink: /casestudy/article/
+permalink: /casestudy/citations/
 nav_order: 5
 ---
 

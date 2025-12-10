@@ -1,9 +1,9 @@
 ---
 title: "Discussion Questions"
-layout: default
+layout: single
 
 collection: casestudy
-permalink: /casestudy/article/
+permalink: /casestudy/stakeholder2/
 nav_order: 3
 ---
 ## Discussion questions to make you think some more 

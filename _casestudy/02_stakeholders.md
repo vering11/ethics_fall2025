@@ -1,9 +1,9 @@
 ---
 title: "Stakeholder1"
-layout: default
+layout: single
 
 collection: casestudy
-permalink: /casestudy/article/
+permalink: /casestudy/stakeholder1/
 nav_order: 2
 ---
 ## The Stakeholders: Who is involved? 
