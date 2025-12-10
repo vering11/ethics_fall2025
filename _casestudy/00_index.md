@@ -3,6 +3,7 @@ permalink: /casestudy/
 title: "Algorithmic Opression: Surveillance Technology in Immigration" 
 author_profile: true
 
+layout: single
 collection: casestudy
 ---
 # Abstract:
