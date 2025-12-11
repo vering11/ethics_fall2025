@@ -11,7 +11,7 @@ nav_order: 1
 Immigration is a subject that can be hard to navigate because of how personal it can be. Some people don’t think about immigration often and some think about it everyday, it all depends on personal circumstances. As a whole however, the technologies created to be implemented within immigration enforcement are very rarely the focal point. 
 
 
-	Recently, the technology used, or more specifically, the company that creates technology used in this case was seen in the news. Palantir, a software company, was hired by Immigration and Customs Enforcement (ICE) to create a new artificial intelligence system to track immigrants’ movements (Hubbard, 2025). This tool would be called ImmigrationOS and has three components to it. 
+Recently, the technology used, or more specifically, the company that creates technology used in this case was seen in the news. Palantir, a software company, was hired by Immigration and Customs Enforcement (ICE) to create a new artificial intelligence system to track immigrants’ movements (Hubbard, 2025). This tool would be called ImmigrationOS and has three components to it. 
 
 
 Targeting and enforcement prioritization: A goal would be to help ICE make faster decisions on who should be removed first. Priority would be given to “violent criminals” and people who overstayed their visas. However, what data or criteria would be used to identify “violent criminals” is unknown (Hubbard, 2025). 
