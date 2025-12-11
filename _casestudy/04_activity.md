@@ -25,7 +25,7 @@ Here's one example of activity #2,
 
 
 Here's another example, 
-![Activity #2](ethics_fall2025/images/casestudy_activity02_02.jpg)
+![Activity #2](/ethics_fall2025/images/casestudy_activity02_02.jpg)
 
 To view or download the pdf of activity #2, [Click here:](/ethics_fall2025/files/casestudy_activity02.pdf)
 
