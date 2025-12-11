@@ -6,7 +6,7 @@ collection: casestudy
 permalink: /casestudy/activity/
 nav_order: 4
 
-Static files: ethics_fall2025/files/casestudy_activity01.pdf
+pdf_path: ethics_fall2025/files/casestudy_activity01.pdf
 ---
 
 ---
