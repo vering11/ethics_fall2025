@@ -6,7 +6,7 @@ collection: casestudy
 permalink: /casestudy/article/
 nav_order: 1
 
-image: ethics_fall2025/images/surveillance.png
+image: ethics_fall2025/images/surveillance.jpg
 
 ---
 ## Introduction
@@ -26,7 +26,7 @@ Because the company has been hired by the U.S. government, they are given access
 
 In her book, Border Circuitry, Ana Muniz touches on this idea that the borders have expanded. What she means by this is that because technology has become so ingrained in daily life, people are being watched regardless of whether they’re strictly at the border or not. Borders have expanded into this metaphysical concept where there is no longer a strict divide between borders as they almost blend together and anyone can be impacted by this no matter where they’re located. This creates a divided and further polarized society. 
 
-![graphic of surveillance camera](/ethics_fall2025/images/surveillance.png)
+![graphic of surveillance camera](/ethics_fall2025/images/surveillance.jpg)
 
 # Ethical Lenses: What are the different perspectives involved? What makes this topic an ethical or unethical one? 
 This scenario has such a largely negative impact on a disproportionate part of the population and it's important to consider that this portion of the population is already marginalized. Looking at the use of technology within immigration, how do the different ethical lenses change the view of the situation? There are six different lenses: virtue, care/feminist, utilitarianism, duty/deontological, natural law, and contractarianism. With the virtue lens, the guiding principle is clear. “What would a virtuous person do?” The virtue lens has a focus on honesty and integrity. For this case to fit into the lens, the technology used and implemented should be transparent. Privacy should be protected and people should be able to trust in both the technology used, the companies creating it, and the way the government is deploying it. 
