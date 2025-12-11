@@ -5,6 +5,8 @@ layout: single
 collection: casestudy
 permalink: /casestudy/stakeholder1/
 nav_order: 2
+
+image: ethics_fall2025/images/stakeholders.png
 ---
 ## The Stakeholders: Who is involved? 
 There are multiple stakeholders involved in this case. Marginalized communities are the most heavily affected and hurt by the use of surveillance technology, especially in immigration enforcement applications. With that being said, immigrants and non-US citizens, U.S. citizens, government agencies, politicians, tech companies, and human advocacy groups all play a role in this. Let’s dive deeper into what each of these roles look like more specifically. 
@@ -18,6 +20,8 @@ U.S. citizens often do not feel the same worries that immigrants and non-U.S. ci
 
 ## U.S. Citizens
 U.S. citizens, however, can still play a role in helping immigrants and non-U.S. citizens. Because of the privilege they have of stable citizenship, it is important that they stand up when an immigrant's rights are violated or being taken away. Government agencies are large stakeholders, as well. Prominently because of the role they play in immigration enforcement and the implementation of surveillance technology. Agencies such as the Immigration and Customs Enforcement, the Federal Bureau of Investigation, and the Department of Homeland Security all work on immigration enforcement in some capacity. These agencies all use these surveillance systems, but also work with large tech companies to ensure these systems are set up.
+
+![graphic of people around the world](/ethics_fall2025/images/stakeholders.png)
 
 ## Tech Companies and Corporations
 Tech companies such as Palantir, which was mentioned earlier, and Northrop Grumman. Palantir may be the most well known for its controversial ImmigrationOS software (Hubbard, 2025). Further collaboration can be seen in the $51.6 million contract the government made with Palantir (Nalbandian, 2022). The goal of this contract was for Palantir to create a case management system. Similarly to Palantir, Northrop Grumman signed a $95 million contract with the Department of Homeland Security in 2018 (Nalbandian, 2022). With the ultimate goal of creating a new database that would hold data such as: fingerprints, palm prints, facial image and iris scans, and deported felons and immigration violators. The most notable feature of this system would be its ability to hold 500 million unique identities (Nalbandian 2022).
