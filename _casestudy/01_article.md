@@ -36,3 +36,5 @@ In the utilitarian lens, the focus is creating the most good for the most people
 
 ## Duty
 The duty lens has a focus on the respect of autonomy, something that might be a struggle to have with surveillance technology implemented. However, another aspect that plays a role within the duty lens is confidentiality. This lens would encourage the privacy and protection of people's personal data. Natural law is another lens that focuses on moral principles, but it focuses more on what is implicit in nature. What is human nature? This is another lens that is difficult to identify because of technology and surveillance is not inherently human nature. This lens directly conflicts with immigration enforcement. Immigration enforcement causes fear and trauma, it does not create justice but damages it. The final lens, the contractarianism lens, is about what is fair. Once again, this lens is in direct conflict with surveillance technology being implemented in immigration enforcement applications. This is simply because surveillance technology is not fair and the act of immigration enforcement isn’t either. 
+
+Click next to view the specific stakeholders involved.

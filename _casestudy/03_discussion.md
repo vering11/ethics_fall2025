@@ -27,4 +27,4 @@ How are modern surveillance practices shaped by older histories of colonial cont
 
 Does the unequal distribution of surveillance technologies between rich and poor nations create new kinds of “digital imperialism”?
 
-[← Back to Main Case Study](/ethics_fall2025/casestudy/)
+Click next to view an interactive activity. 

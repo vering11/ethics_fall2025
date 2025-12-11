@@ -26,4 +26,4 @@ Politicians are involved in the decision making process and focus on the creatio
 ## Human Advocacy Groups
 Human advocacy groups are also important stakeholders in this conversation because of the work they do to protect such a marginalized community. They are fighting for the protection of immigrants. S.T.O.P is an organization working to stop government use of mass surveillance. They highlight the impact that surveillance has on marginalized communities in the United States, including immigrants. 
 
-[← Back to Main Case Study](/ethics_fall2025/casestudy/)
+Click next to see discussion questions.
