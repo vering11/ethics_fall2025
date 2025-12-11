@@ -12,7 +12,6 @@ image: ethics_fall2025/images/casestudy_activity02_01.jpg
 image: ethics_fall2025/images/casestudy_activity02_02.jpg
 
 ---
-
 The activity below is an alternative if you aren't feeling like reading the whole case study. You'll get the same sort of information out of the activity as you will the case study article and stakeholders section. Through the case study, you'll be asked questions that are multiple choice, as well as questions that encourage to reflect on the content you're engaging with. 
 
 Here's a quick peak at one page of activity #1,![Activity #1](/ethics_fall2025/images/casestudy_activity01_01.jpg)
