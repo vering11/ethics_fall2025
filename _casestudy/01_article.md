@@ -6,7 +6,7 @@ collection: casestudy
 permalink: /casestudy/article/
 nav_order: 1
 
-image: 
+image: ethics_fall2025/images/surveillance.png
 
 ---
 ## Introduction
