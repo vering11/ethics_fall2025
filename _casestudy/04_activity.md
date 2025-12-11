@@ -23,8 +23,9 @@ Activity number 2 includes tarot cards to help you if you're designing technolog
 
 [Here's one example of activity #2,](/ethics_fall2025/images/casestudy_activity02_01.jpg)
 [Here's another example, ](ethics_fall2025/images/casestudy_activity02_02.jpg)
-Have fun! 
 
 [to view or download the pdf of activity #2, click here: ](/ethics_fall2025/files/casestudy_activity02.pdf)
+
+Have fun! 
 
 Click next to see the citations.
