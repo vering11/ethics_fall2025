@@ -18,6 +18,9 @@ Kantayya, Shalini. “Coded Bias.” CODED BIAS, 26 Jan. 2020, www.codedbias.com
 
 MacLellan, Lila. “These Are the Fortune 500 Companies That Have Active Contracts with Ice.” Fortune, 27 June 2025, fortune.com/2025/06/26/fortune-500-companies-active-contracts-immigration-and-customs-enforcement-ice/. Accessed 03 Nov. 2025. 
 
+Muniz, Ana. 2022. Borderland Circuitry: Immigration Surveillance in the United States and Beyond. 1st ed. University of California Press. https://doi.org/10.2307/j.ctv2kx88rc.
+
+
 Nalbandian, Lucia. “An Eye for an ‘I:’ A Critical Assessment of Artificial Intelligence Tools in Migration and Asylum Management.” Comparative Migration Studies [Heidelberg], vol. 10, no. 1, Dec. 2022, PAIS Index, 2697535383, p. 32, https://doi.org/10.1186/s40878-022-00305-0. Accessed Nov. 2025.
 
 Vavoula, Niovi. Regulating AI at Europe’s Borders: Where the AI Act Falls Short, VerfBlog, 13 Dec. 2024. https://verfassungsblog.de/regulating-ai-at-europes-borders/ Accessed 04 Nov. 2025.
