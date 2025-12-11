@@ -13,15 +13,16 @@ collection: casestudy
 - Understand how different technologies are used in different immigration enforcement applications 
 - Be able to assess the potential impact of technologies used in immigration and the impact they have on (a) immigrants and refugees, (b) the United States as a country, and (c) the world in its entirety.
 - Be able to thoughtfully discuss how technology might contribute to broader current trends in immigration enforcement and political polarization.
-- Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation
+- Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation 
 
-[Read more here:](/ethics_fall2025/casestudy/article/)
 
-[Want to learn more with a hands-on approach? Click here:](/ethics_fall2025/casestudy/activity/)
+Click next at the bottom to read more. 
 
-[Want to learn more about the stakeholders? Click here:](/ethics_fall2025/casestudy/stakeholder1/)
+If you want to learn more with a hands-on approach and want to do an activity, [click here:](/ethics_fall2025/casestudy/activity/)
 
-[Want more discussion questions? Click here:](/ethics_fall2025/casestudy/stakeholder2/)
+If you're curious about all the stakeholders involved in this, [click here:](/ethics_fall2025/casestudy/stakeholder1/)
 
-[Want to see what sources I used? Click here:](/ethics_fall2025/casestudy/citations/)
+If you've read the article, know the stakeholders involved, and want questions to guide conversations or your thinking, [click here:](/ethics_fall2025/casestudy/stakeholder2/)
+
+If you want to learn more and see the sources I found, themselves, [click here:](/ethics_fall2025/casestudy/citations/)
 

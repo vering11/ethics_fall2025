@@ -5,6 +5,8 @@ layout: single
 collection: casestudy
 permalink: /casestudy/activity/
 nav_order: 4
+
+Static files: ethics_fall2025/files/casestudy_activity01.pdf
 ---
 [Here is a quiz to test your knowledge and to make you think about the ethics of surveillance technology in immigration, a bit more.](https://forms.gle/pUYXCdLNfwVgpogT8)
 
