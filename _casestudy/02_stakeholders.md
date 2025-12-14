@@ -1,5 +1,5 @@
 ---
-title: "Stakeholder1"
+title: "Stakeholder"
 layout: single
 
 collection: casestudy
