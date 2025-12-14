@@ -16,7 +16,7 @@ collection: casestudy
 - Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation 
 
 
-Click next at the bottom to read more. 
+Click next at the bottom to read the actual case study. 
 
 If you want to learn more with a hands-on approach and want to do an activity, [click here:](/ethics_fall2025/casestudy/activity/)
 
