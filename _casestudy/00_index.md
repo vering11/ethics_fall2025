@@ -1,20 +1,19 @@
 ---
 permalink: /casestudy/
-title: "Algorithmic Opression: Surveillance Technology in Immigration" 
+title: "Surveillance Technology in Immigration" 
 author_profile: true
 
 layout: single
 collection: casestudy
 ---
-# Abstract:
- As the topic of immigration becomes more and more relevant in today’s society, it is imperative to understand the technology that plays a role within immigration enforcement. Across the world, different technologies are being implemented and used in immigration enforcement applications. It might appear like using facial recognition technology or automated license plate recognition across borders. This goes further than simple technologies being used, it is also how the data retrieved from these technologies is gathered and used. It is important to understand what these technologies are, how they are used, and the impact they have on so many both in the United States and globally. 
+## Abstract:
+ As the topic of immigration becomes more and more relevant in today’s society, it is imperative to understand the technology that plays a role within immigration enforcement. Across the world, different technologies are being implemented and used in immigration enforcement applications. Palantir, Northrop Grumman, and L3Harris all have worked for the government in some capacity, creating technology that can be used within the context of immigration enforcement. It might appear like using facial recognition technology or automated license plate recognition across borders. This goes further than simple technologies being used, it is also how the data retrieved from these technologies is gathered and used. It is important to understand what these technologies are, how they are used, and the impact they have on so many both in the United States and globally. Many human rights organizations have raised concerns about this technology and what it means for those impact as the results are largely negative. This case study was written to raise awareness on the topic, educate others on the role that they play in this, and encourage the development of technology that is used ethically.  
 
 ## Learning Objectives - 
 - Understand how different technologies are used in different immigration enforcement applications 
 - Be able to assess the potential impact of technologies used in immigration and the impact they have on (a) immigrants and refugees, (b) the United States as a country, and (c) the world in its entirety.
 - Be able to thoughtfully discuss how technology might contribute to broader current trends in immigration enforcement and political polarization.
 - Be able to use philosophical concepts and reflection to reimagine and guide tech design and implementation 
-
 
 Click next at the bottom to read the actual case study. 
 

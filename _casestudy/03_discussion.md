@@ -6,7 +6,9 @@ collection: casestudy
 permalink: /casestudy/stakeholder2/
 nav_order: 3
 ---
-## Discussion questions to make you think some more 
+## Discussion questions 
+These questions are meant to be thought about on your own or start a conversation in groups, either way they leave you with a lot of important things to consider and think about. 
+
 If a person is fleeing danger, can their consent to surveillance ever truly be “voluntary”?
 
 Does needing safety justify giving up privacy? Who decides that trade-off?
