@@ -1,4 +1,5 @@
 ---
+title: "The Article"
 layout: single
 
 collection: casestudy
